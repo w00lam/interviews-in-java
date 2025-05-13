@@ -4,7 +4,7 @@ package ch04;
 // n : 전체 비트 수
 // 시간 복잡도 : O(n/L)
 public class Parity_3 {
-    public static int[] makeLookuptable(int keySize) {
+    public static int[] makeLookupTable(int keySize) {
         int n = (int) Math.pow(2, keySize);
         int[] precomputedParity = new int[n];
         for (int i = 0; i < n; i++) {
@@ -20,7 +20,7 @@ public class Parity_3 {
         return precomputedParity;
     }
 
-    static int[] precomputedParity = makeLookuptable(16);
+    static int[] precomputedParity = makeLookupTable(16);
 
     public static short parity(long x) {
         final int WORD_SIZE = 16;
