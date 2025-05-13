@@ -25,3 +25,12 @@
   [응용(3)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IsPowerOfTwo.java)
   
 </details>
+
+<details>
+<summary>
+  비트 스왑
+</summary>
+
+  [비트 비교](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Swap.java)
+
+</details>
