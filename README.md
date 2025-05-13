@@ -18,10 +18,10 @@
   
   [교환 법칙](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_4.java)
 
-  [응용1](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ShiftBitToRight.java)
+  [응용(1)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ShiftBitToRight.java)
 
-  [응용2](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ModByPowerOfTwo.java)
+  [응용(2)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ModByPowerOfTwo.java)
 
-  [응용3](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IsPowerOfTwo.java)
+  [응용(3)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IsPowerOfTwo.java)
   
 </details>
