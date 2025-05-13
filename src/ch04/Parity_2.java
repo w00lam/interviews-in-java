@@ -1,5 +1,7 @@
 package ch04;
 
+// k : 1로 세팅된 비트의 개수
+// 시간 복잡도 : O(k)
 public class Parity_2 {
     public static short parity(long x) {
         short result = 0;

@@ -1,5 +1,7 @@
 package ch04;
 
+// n : 입력 크기
+// 시간 복잡도 : O(log n)
 public class Parity_4 {
     public static short parity(long x) {
         x ^= x >>> 32;

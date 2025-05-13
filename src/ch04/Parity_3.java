@@ -1,5 +1,8 @@
 package ch04;
 
+// L : 해시 테이블에 사용될 키값의 비트 수
+// n : 전체 비트 수
+// 시간 복잡도 : O(n/L)
 public class Parity_3 {
     public static int[] makeLookuptable(int keySize) {
         int n = (int) Math.pow(2, keySize);
