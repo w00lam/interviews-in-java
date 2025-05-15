@@ -1,5 +1,10 @@
 package ch04;
 
+
+// n : 피연산자의 길이
+// ==시간 복잡도==
+// 덧셈 : O(n)
+// 곱셈 : O(n^2)
 public class Multiply {
     public static long multiply(long x, long y) {
         long sum = 0;
