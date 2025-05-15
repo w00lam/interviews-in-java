@@ -10,27 +10,29 @@
   4장 기본 자료형
 </summary>
   
-  [패리티 계산하기(1)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_1.java)
+  [문제 4.1 패리티 계산하기(1)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_1.java)
   
-  [패리티 계산하기(2)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_2.java)
+  [문제 4.1 패리티 계산하기(2)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_2.java)
   
-  [패리티 계산하기(3)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_3.java)
+  [문제 4.1 패리티 계산하기(3)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_3.java)
   
-  [패리티 계산하기(4)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_4.java)
+  [문제 4.1 패리티 계산하기(4)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_4.java)
 
-  [응용(1)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ShiftBitToRight.java)
+  [문제 4.1 응용(1)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ShiftBitToRight.java)
 
-  [응용(2)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ModByPowerOfTwo.java)
+  [문제 4.1 응용(2)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ModByPowerOfTwo.java)
 
-  [응용(3)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IsPowerOfTwo.java)
+  [문제 4.1 응용(3)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IsPowerOfTwo.java)
 
-  [비트 스왑](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Swap.java)
+  [문제 4.2 비트 스왑](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Swap.java)
 
-  [같은 무게를 가진 가장 가까운 정수 찾기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_1.java)
+  [문제 4.3 비트 뒤집기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Reverse.java)
 
-  [응용(4)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_2.java)
+  [문제 4.4 같은 무게를 가진 가장 가까운 정수 찾기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_1.java)
 
-  [곱셈과 덧셈 없이 x*y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_1.java)
+  [문제 4.4 응용](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_2.java)
+
+  [문제 4.5 곱셈과 덧셈 없이 x*y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_1.java)
   
-  [x/y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Divide.java)
+  [문제 4.6 x/y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Divide.java)
 </details>
