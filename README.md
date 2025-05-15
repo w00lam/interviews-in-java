@@ -34,3 +34,14 @@
   [비트 비교](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Swap.java)
 
 </details>
+
+<details>
+<summary>
+  같은 무게를 가진 가장 가까운 정수 찾기
+</summary>
+
+  [비트 스왑](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_1.java)
+
+  [응용](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_2.java)
+
+</details>
