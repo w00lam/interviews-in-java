@@ -45,3 +45,12 @@
   [응용](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_2.java)
 
 </details>
+
+<details>
+<summary>
+  곱셈과 덧셈 없이 x * y 계산하기
+</summary>
+
+  [비트 연산과 시프트 이용](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_1.java)
+
+</details>
