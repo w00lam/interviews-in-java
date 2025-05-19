@@ -3,7 +3,7 @@ package ch04;
 // L : 해시 테이블에 사용될 키값의 비트 수
 // n : 전체 비트 수
 // 시간 복잡도 : O(n/L)
-public class Reverse {
+public class ReverseBits {
     public static long swapBits(long x, int keySize) {
         int n = keySize / 2;
         for (int i = 0; i < n; i++) {
