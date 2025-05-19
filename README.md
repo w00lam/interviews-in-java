@@ -37,4 +37,6 @@
   [문제 4.6 x/y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Divide.java)
 
   [문제 4.7 x^y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Power.java)
+
+  [문제 4.8 숫자 뒤집기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Reverse.java)
 </details>
