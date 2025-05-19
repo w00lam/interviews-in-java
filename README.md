@@ -1,7 +1,7 @@
 # 262가지 문제로 정복하는 코딩 인터뷰 In Java
 
 ![java](https://img.shields.io/badge/Java-24.0.1-blue)
-![intellij](https://img.shields.io/badge/IntelliJ%20IDEA-2025.1-lightslategray)
+![intellij](https://img.shields.io/badge/IntelliJ%20IDEA%20Community%20Edition-2025.1-lightslategray)
 
 ### JAVA 문제 해결 능력을 기르기 위해 책을 정리, 학습한 코드입니다.
 
