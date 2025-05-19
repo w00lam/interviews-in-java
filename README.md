@@ -35,4 +35,6 @@
   [문제 4.5 곱셈과 덧셈 없이 x*y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/ClosestIntSameBitCount_1.java)
   
   [문제 4.6 x/y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Divide.java)
+
+  [문제 4.7 x^y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Power.java)
 </details>
