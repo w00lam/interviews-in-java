@@ -39,4 +39,14 @@
   [문제 4.7 x^y계산하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Power.java)
 
   [문제 4.8 숫자 뒤집기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Reverse.java)
+
+  [문제 4.9 회문 확인하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IsPalindromeNumber.java)
+
+  [문제 4.10 임의의 숫자를 균등한 확률로 생성하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/UniformRandom.java)
+
+  [문제 4.11 사각형이 겹치는지 확인하기](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IntersectRectangle_1.java)
+
+  [문제 4.11 응용(1)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IsRectangle.java)
+
+  [문제 4.11 응용(2)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/IntersectRectangle_2.java)
 </details>
