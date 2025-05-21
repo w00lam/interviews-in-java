@@ -4,9 +4,9 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * 시간 복잡도: O(n^2)
- * 공간 복잡도: O(1)
- */
+  * 시간 복잡도: O(n^2)
+  * 공간 복잡도: O(1)
+  */
 public class DutchFlagPartition_1 {
     public static enum Color {RED, WHITE, BLUE}
 
