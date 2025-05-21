@@ -1,6 +1,6 @@
 package ch04;
 
-// 시간 복잡도 : O(1)
+// O(1) 시간과 공간을 사용해서 같은 문제를 풀어 보자.
 // 더 고민해보기
 public class ClosestIntSameBitCount_2 {
     /*public static long closestIntSameBitCount(long x) {
