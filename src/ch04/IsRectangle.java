@@ -2,6 +2,9 @@ package ch04;
 
 import java.util.Arrays;
 
+
+// 평면상에 네 개의 점이 주어졌을 때
+// 그 점으로 직사각형을 만들 수 있는지 어떻게 알 수 있을까?
 public class IsRectangle {
     public static class Point {
         int x, y;
