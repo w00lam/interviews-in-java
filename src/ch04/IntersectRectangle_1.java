@@ -1,7 +1,7 @@
 package ch04;
 
 // 시간 복잡도 : O(1)
-public class IntersectRectangle {
+public class IntersectRectangle_1 {
     public static class Rectangle {
         private final int x, y, width, heigh;
 
