@@ -14,16 +14,16 @@ public class DutchFlagPartition_4 {
 
     public static void dutchFlagPartition(List<Color> A) {
         Color pivot = A.getFirst();
-        int smaller = 0, equal = 0, larger = A.size();
-        // 분류되지 않은 원소가 있는 동안 계속 순회한다.
-        while (equal < larger) {
-            // A.get(equal)는 분류되지 않은 원소를 가르킨다.
-            if (A.get(equal).ordinal() < pivot.ordinal()) {
-                Collections.swap(A, smaller++, equal++);
-            } else if (A.get(equal).ordinal() == pivot.ordinal()) {
-                ++equal;
-            } else { // A.get(equal) > pivot
-                Collections.swap(A, equal, --larger);
+        int smaller = 0;
+        for (int i = 0; i < A.size(); i++) {
+            if (A.get(i).ordinal() < pivot.ordinal()) {
+                Collections.swap(A, smaller++, i);
+            }
+        }
+        int larger = A.size() - 1;
+        for (int i = A.size() - 1; i >= 0 && A.get(i).ordinal() >= pivot.ordinal(); --i) {
+            if (A.get(i).ordinal() > pivot.ordinal()) {
+                Collections.swap(A, larger--, i);
             }
         }
     }
