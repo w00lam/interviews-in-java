@@ -6,10 +6,9 @@
 ### JAVA 문제 해결 능력을 기르기 위해 책을 정리, 학습한 코드입니다.
 
 <details>
-<summary>
+  <summary>
   4장 기본 자료형
-</summary>
-  
+  </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;문제 4.1
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[패리티 계산하기(1)](https://github.com/w00lam/interviews-in-java/blob/master/src/ch04/Parity_1.java)
